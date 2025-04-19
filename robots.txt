@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Test4.github.io/sitemap.xml
+Sitemap: https://devatacad.github.io/Test4//sitemap.xml
